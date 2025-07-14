@@ -8,7 +8,6 @@ import re
 
 from persona import save_persona_as_image  
 
-# Download NLTK data once
 nltk.download('vader_lexicon')
 nltk.download('stopwords')
 
